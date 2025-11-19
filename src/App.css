@@ -8,6 +8,7 @@
 @layer base {
   html {
     scroll-behavior: smooth;
+    overflow-x: hidden;
   }
   /* @font-face {
     font-family: "circular-web";
